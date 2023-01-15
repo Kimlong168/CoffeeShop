@@ -1,0 +1,7 @@
+-	ID	NAME		PRICE	
+	8	Sandwich	2.5$
+	9	Cake		2.5$
+	10	Donut		1.5$
+	11	IceCream	1.0$	
+	12	Cookie	1.2$	
+	13	Cupcake	0.8$

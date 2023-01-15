@@ -1,0 +1,7 @@
+-	ID	Name			date			place			major			university	career			telephone	facebook
+
+	1	ChannKimlong	11/03/2002		PreyVeng		ComputerScience	CADT		MobileAppDeveloper	085739468	Kimlong101
+	2	ChoubChhenglun	02/09/2002		Kompongcham		ComputerScience	CADT		SoftwareEngineer		069764056	Biilunck 	
+	3	ChheaChungHeang	12/03/2003		Kompongcham		ComputerScience	CADT		WebDeveloper		0978628482	HeangZin2	
+	4	ChamSreytouch	10/06/2002		Kompongcham		ComputerScience	CADT		MobileAppDeveloper	0963501567	chamsreytouch	
+	5	BouTaiihor		23/06/2003		Kandal		ComputerScience	CADT		MobileAppDeveloper	070399342	BouTaiihor	
